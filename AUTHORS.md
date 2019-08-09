@@ -7,13 +7,14 @@ It was developed from version 1.6 of the Real-Space Cellular Automaton Laborator
  - Kelly Kochanski, <kelly.kochanski@gmail.com>, (designed rescal-snow features, added rescal_utilities, cleaned up I/O, wrote docs, misc debugging)
  - Eric Green (simplified configuration/dependencies, simplified and selectively modularized source code, optimized random number generator, misc debugging)
  - Barry Rountree, <rountree4@llnl.gov>, (configured software for parallel/Mac use, misc debugging)
+ - Richard Barnes (added update with cmake, fixed many compilation warnings)
  - Carlos Downie (added fft utility and tests)
  - Gian-Carlo Defazio (added heightmap and cellspace utilities, measured effects of stochastic behavior in rescal-snow)
  - Adam Rubin* (added snowfall feature)
+ - Adam Rubin (added snowfall feature)
  - Aaron Robeson (added xcorr utility)
  - Divya Mohan (misc debugging)
 
-*University of Colorado Boulder
 
 ## IPGP contributors (2004-2016)
 Rescal-snow would not have been possible without the development of ReSCAL, which was written 2004-2014 at the Laboratoire de Dynamique des Fluides Geologiques, Institute de Physique du Globe de Paris.

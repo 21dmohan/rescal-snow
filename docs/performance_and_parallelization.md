@@ -28,7 +28,7 @@ The details are beyond the scope of this document, but our attempts included
  - exporting random number generation to GPUs
  - slicing the domain into separate pieces controlled by separate processors
  
-None of these efforts were particularly promising, and we did not develop them far enough to include in this release.
+None of these efforts were promising enough to merit inclusion in this release.
  
 We instead emphasise applications, such as parameter space explorations, that leverage many processors to perform many serial runs, rather than applications that require parallelizing rescal-snow.
 
